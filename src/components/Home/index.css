@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.app-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .home-container {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    padding: 100px 0px;
+    height: 350px;
+    width: 400px;
+    border-radius: 12px;
+    background: linear-gradient(#2b2c49, #b5b9ff);
+  }
+  
